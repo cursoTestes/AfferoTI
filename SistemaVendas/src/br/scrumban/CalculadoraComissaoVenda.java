@@ -2,7 +2,7 @@ package br.scrumban;
 
 public class CalculadoraComissaoVenda {
 
-	public static Double calcular(Double entrada) {
+	public Double calcular(Double entrada) {
 		
 		Double comissao;
 		
